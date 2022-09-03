@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1586451129 source:c:\program files (x86)\codeblocks\mingw\bin\railwaysreservationsystem\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<ctime>
+	<string>
+
+1585328387 source:c:\program files (x86)\codeblocks\mingw\bin\railwaysreservationsystem\adminmode.cpp
+	<fstream>
+	<iostream>
+	<conio.h>
+
